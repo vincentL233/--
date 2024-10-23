@@ -473,3 +473,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n程式執行時發生錯誤: {str(e)}")
         logging.exception("未預期的錯誤")
+    #text        
